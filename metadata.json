@@ -1,0 +1,6 @@
+{
+  "name": "SpendSense AI",
+  "description": "AI-powered personal finance management platform for tracking income, expenses, budgets, savings goals, statistical forecasting, and personalized financial recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
